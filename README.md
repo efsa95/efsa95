@@ -1,5 +1,6 @@
-# Elijah Smith-Antonides  
-📍 Foster, Rhode Island  
+# Welcome!
+---
+## Contacts
 📞 401-309-9107 | 📧 efsa95@gmail.com  
 
 ---
