@@ -29,7 +29,3 @@
 ### **Team Leadership & Training**  
 - Managing small teams, training new employees, public speaking, and performances.
 - See more with my resume [here](https://github.com/efsa95/efsa95/blob/main/files/ElijahSmithAntonidesResume2025.pdf)
-
----
-
-📂 *Explore my repositories to see my projects and contributions!*
