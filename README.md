@@ -1,7 +1,7 @@
 # Welcome!
 ---
 ## Contacts
-📞 401-309-9107 | 📧 efsa95@gmail.com  
+📞 401-309-9107 | 📧 efsa95@gmail.com | [LinkedIn](https://www.linkedin.com/in/elijah-smith-antonides-125081166/)
 
 ---
 
