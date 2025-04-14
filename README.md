@@ -5,8 +5,9 @@
 
 ---  
 
-## Make a Quick Free Website With My Template!
+## Make a Quick Free Website/Portfolio With MyTemplate!
 - Its easy, free, and has good directions.
+- Runs from your Github!
 - [Click Here!](https://github.com/efsa95/TemplateJupyterBookSetup)
 
 ---
