@@ -8,6 +8,7 @@
 ## Make a Quick Free Website/Portfolio With MyTemplate!
 - Its easy, free, and has good directions.
 - Runs from your Github!
+- Powered by [Jupyterbook](https://jupyterbook.org/en/stable/intro.html)
 - [Click Here!](https://github.com/efsa95/TemplateJupyterBookSetup)
 
 ---
